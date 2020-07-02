@@ -6,4 +6,7 @@ Morfessor Baseline, is a method for unsupervised morphological segmentation. Mor
 adding them into the data likelihood function and optimizing separate weights for unlabeled and labeled data.
 
 ***The work deals with Morphological Analysis in an unsupervised setting using state-of-the-art LSTMs***
+
+### This report contains Project Report as a part of Research Internship at Indian Institute of Technology, B.H.U.
+
  
